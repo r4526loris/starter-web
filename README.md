@@ -7,6 +7,8 @@ showing how to use Git and GitHub together.
 
 ## Introduction
 
+This is the IntRO
+
 ## Purpose
 
 ## Deployment
