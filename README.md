@@ -11,7 +11,11 @@ This is the IntRO
 
 ## Purpose
 
+Tjhis is the purpose
+
 ## Deployment
+
+DEPLOY ON HEROKU!
 
 ## How to contribute
 
